@@ -1,0 +1,1 @@
+![Build Status](https://github.com/sameeeerjadhav/my-docker-app/actions/workflows/ci.yml/badge.svg)
